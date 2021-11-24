@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.heading {
+    background-color: white;
+    font-family: 'Special Elite', cursive;
+    font-size: 30px;
+    width: 450px;
+    margin-left: 365px;
+    margin-top: 25px;
+    border-radius: 8px;
+    border: 4px solid black; 
+    padding: 10px;
+}
+
+span {
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.answers {
+    color: purple;
+}
+
+li img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.bob {
+    background: #fff8f8;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.bob3 {
+    text-align: center;
+    background: #dedddd;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.img-responsive {
+    margin-left: 140px;
+}
+
+.one {
+    display: flex;
+}
+
+.two {
+    display: flex;
+}
+
+.three {
+    display: flex;
+}
+
+.four {
+    display: flex;
+}
+
+.five {
+    display: flex;
+}
+
+.text_images_and_result {
+    margin-right: 20px;
+}
